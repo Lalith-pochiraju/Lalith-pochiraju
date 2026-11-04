@@ -22,7 +22,7 @@
 - Author of a paper on **YOLO26 drone detection with multi-modal trajectory prediction** (95.1% mAP@50, 50+ FPS), currently under peer review
 - Interested in **edge AI deployment**: getting vision models running fast on small hardware (Raspberry Pi, Jetson)
 - I build things that move: rovers, robotic hands, shape-changing robots, IoT systems
-- Currently building a **dementia-care platform** for Smart India Hackathon (SIH26003)
+- Currently building a **dementia-care platform** for elderly patients in India living with dementia
 
 ---
 
@@ -56,7 +56,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**Drone Detection & Tracking**](https://github.com/Lalith-pochiraju/yolo-v26-drone-detection-and-trajectory-tracking) | Real-time drone detection with YOLO26n plus multi-modal trajectory prediction of future flight paths. 95.1% mAP@50, 0.953 precision, 50+ FPS; benchmarked against YOLOv8n, v10n and v11n. Deployed and tested on an NVIDIA Jetson Nano. Paper under peer review. | Python, PyTorch, YOLO26, Jetson Nano |
-| **SIH26003 Dementia Care** *(in progress)* | Care platform for elderly dementia patients in North-East India | — |
+| **Dementia Care Platform** *(in progress)* | Care platform for elderly patients in India living with dementia | — |
 | [**Gesture-Controlled Rover**](https://github.com/Lalith-pochiraju/my-projects/tree/main/hand%20dection%20rover) | Raspberry Pi rover driven by hand signs; live camera stream to laptop for gesture detection | RPi, L298N, OpenCV |
 | [**Shape-Changing X-Link Rover**](https://github.com/Lalith-pochiraju/my-projects/tree/main/xlink%20rover) | ESP32 rover with custom actuators and ultrasonic sensing | ESP32, C++ |
 | [**Automated Irrigation**](https://github.com/Lalith-pochiraju/my-projects/tree/main/auto%20irrigation) | Sensor-driven ESP32 irrigation system | ESP32, IoT |
