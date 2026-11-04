@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://lalith-portfolio1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4A3226?style=for-the-badge&logo=vercel&logoColor=FBE3CF" /></a>
   <a href="https://www.linkedin.com/in/pochiraju-lalith-swaroop"><img src="https://img.shields.io/badge/LinkedIn-E0895A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tinkercad.com/users/4TYAEqfChin"><img src="https://img.shields.io/badge/Tinkercad-C8693F?style=for-the-badge&logo=autodesk&logoColor=white" /></a>
 </p>
 
 ---
@@ -92,7 +93,7 @@
 **3D modelling & video editing**
 <p>
   <img src="https://skillicons.dev/icons?i=blender&theme=light" />
-  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <a href="https://www.tinkercad.com/users/4TYAEqfChin"><img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/DaVinci_Resolve-4A3226?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
