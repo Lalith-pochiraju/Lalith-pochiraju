@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E0895A&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lalith;Researcher+%7C+YOLO26+for+safety+%26+surveillance;Edge+AI+on+Jetson+Nano+%26+Raspberry+Pi;Embedded+systems+with+ESP32+%26+Arduino;Linux+%C2%B7+Python+%C2%B7+C%2FC%2B%2B+%C2%B7+Web+dev" alt="Typing SVG" />
-  </a>
+  <img src="assets/typing.svg" alt="Hey, I'm Lalith. Researcher, edge AI and embedded systems." />
 </p>
 
 <p align="center">
