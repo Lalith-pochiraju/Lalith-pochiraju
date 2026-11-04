@@ -36,6 +36,8 @@
 
 ## Experience
 
+<img src="assets/zyro-logo.png" height="56" alt="ZYRO Solutions logo" />
+
 ### Team Lead, Web Development · ZYRO Solutions
 *Student-run startup founded by peers at Lendi*
 
