@@ -89,6 +89,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,vercel&theme=light" />
 </p>
 
+**3D modelling & video editing**
+<p>
+  <img src="https://skillicons.dev/icons?i=blender&theme=light" />
+  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-4A3226?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+</p>
+
 ---
 
 ## Activity
