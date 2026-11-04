@@ -101,6 +101,15 @@
 
 ---
 
+## Ask Me Anything
+
+<p align="center">
+  Questions about my research, projects or hardware builds? Leave a message and I'll reply.<br/><br/>
+  <a href="https://github.com/Lalith-pochiraju/Lalith-pochiraju/discussions"><img src="https://img.shields.io/badge/Ask_me_anything-E0895A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
 ## Activity
 
 <p align="center">
