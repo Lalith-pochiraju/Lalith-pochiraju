@@ -34,6 +34,16 @@
 
 ---
 
+## Experience
+
+### Team Lead, Web Development · ZYRO Solutions
+*Student-run startup founded by peers at Lendi*
+
+- Lead a small team of web developers
+- Built and delivered websites for local mart shops
+
+---
+
 ## Projects
 
 | Project | What it does | Stack |
