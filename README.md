@@ -18,7 +18,7 @@
 ## About Me
 
 - **B.Tech, Electronics & Communication Engineering** at Lendi Institute of Engineering and Technology, Vizianagaram
-- **First author** of a research paper on real-time **drone detection & tracking** (YOLOv10n + Kalman filter), deployed on a Raspberry Pi 4
+- **First author** of *Automated PPE Compliance Detection on Construction Sites Using YOLO26*, accepted and presented at the **8th International Conference on Intelligent Autonomous Systems (ICoIAS 2026)**, to appear in IEEE Xplore
 - Interested in **edge AI deployment**: getting vision models running fast on small hardware (Raspberry Pi, Jetson)
 - I build things that move: rovers, robotic hands, shape-changing robots, IoT systems
 - Currently building a **dementia-care platform** for Smart India Hackathon (SIH26003)
@@ -38,7 +38,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Drone Detection & Tracking**](https://github.com/Lalith-pochiraju/yolo-v26-drone-detection-and-trajectory-tracking) | Real-time drone detection with YOLOv10n + Kalman-filter tracking, tested on Raspberry Pi 4. Published as first author. | Python, YOLO, OpenCV, RPi |
+| [**Drone Detection & Tracking**](https://github.com/Lalith-pochiraju/yolo-v26-drone-detection-and-trajectory-tracking) | Real-time drone detection with YOLOv10n + Kalman-filter tracking, tested on Raspberry Pi 4. | Python, YOLO, OpenCV, RPi |
 | **SIH26003 Dementia Care** *(in progress)* | Care platform for elderly dementia patients in North-East India | — |
 | [**Gesture-Controlled Rover**](https://github.com/Lalith-pochiraju/my-projects/tree/main/hand%20dection%20rover) | Raspberry Pi rover driven by hand signs; live camera stream to laptop for gesture detection | RPi, L298N, OpenCV |
 | [**Shape-Changing X-Link Rover**](https://github.com/Lalith-pochiraju/my-projects/tree/main/xlink%20rover) | ESP32 rover with custom actuators and ultrasonic sensing | ESP32, C++ |
