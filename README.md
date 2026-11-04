@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E0895A&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lalith;ECE+%40+Lendi+Institute+of+Engineering+%26+Technology;Computer+Vision+on+the+Edge+%7C+YOLO+%2B+Kalman+Filters;Building+robots+with+ESP32%2C+Raspberry+Pi+%26+Arduino;First-author+researcher+%7C+Hackathon+builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E0895A&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lalith;ECE+%40+Lendi+Institute+of+Engineering+%26+Technology;Computer+Vision+on+the+Edge+%7C+YOLO26+on+Jetson+Nano;Building+robots+with+ESP32%2C+Raspberry+Pi+%26+Arduino;First-author+researcher+%7C+Hackathon+builder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,6 +19,7 @@
 
 - **B.Tech, Electronics & Communication Engineering** at Lendi Institute of Engineering and Technology, Vizianagaram
 - **First author** of *Automated PPE Compliance Detection on Construction Sites Using YOLO26*, accepted and presented at the **8th International Conference on Intelligent Autonomous Systems (ICoIAS 2026)**, to appear in IEEE Xplore
+- Author of a paper on **YOLO26 drone detection with multi-modal trajectory prediction** (95.1% mAP@50, 50+ FPS), currently under peer review
 - Interested in **edge AI deployment**: getting vision models running fast on small hardware (Raspberry Pi, Jetson)
 - I build things that move: rovers, robotic hands, shape-changing robots, IoT systems
 - Currently building a **dementia-care platform** for Smart India Hackathon (SIH26003)
@@ -27,10 +28,26 @@
 
 ## Achievements
 
-- **First Prize**, Techkriti 2k25, Baba Institute of Technology and Sciences
+- **First Prize, Paper Presentation**, Techkriti 2K25, Baba Institute of Technology and Sciences (Feb 2025)
 - **First Prize**, DTI Project Expo, Lendi
-- **Second Prize**, Engineers Day project competition, Lendi
-- **Second Prize**, Paper presentation, Engineers Day, Lendi
+- **Runner-up, Project Expo**, Engineers Day, IEI Students Chapter, Lendi
+- **Second Prize, Paper Presentation**, Engineers Day, Lendi
+
+**Hackathons & technical events**
+
+- Hacktriad 2.0 and Engineering Debate, Lendi National Innovation and Technology Summit (LNIT 2K26), Feb 2026
+- Paper Presentation, Technimble 2K25, NSRIT, Oct 2025
+- Hack 2 Impact 2025, IIC, Gayatri Vidya Parishad College of Engineering, Feb 2025
+- Project Palooza, ECENTRA 2K25 national technical symposium (IEEE SPS & ComSoc), JNTU-GV, Feb 2025
+
+---
+
+## Internships & Certifications
+
+- **Cybersecurity Virtual Internship**, Palo Alto Networks via AICTE–EduSkills (10 weeks, Jan–Mar 2025)
+- **Employability Skills Job-Ready Virtual Internship**, Wadhwani Foundation via AICTE–EduSkills (10 weeks, Oct–Dec 2024)
+- **NPTEL: Introduction to Internet of Things** (12-week course, Jan–Apr 2026)
+- **Cisco Networking Academy**: Introduction to Modern AI, Data Analytics Essentials, Apply AI: Analyze Customer Reviews (Jul 2026)
 
 ---
 
@@ -38,7 +55,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Drone Detection & Tracking**](https://github.com/Lalith-pochiraju/yolo-v26-drone-detection-and-trajectory-tracking) | Real-time drone detection with YOLOv10n + Kalman-filter tracking, tested on Raspberry Pi 4. | Python, YOLO, OpenCV, RPi |
+| [**Drone Detection & Tracking**](https://github.com/Lalith-pochiraju/yolo-v26-drone-detection-and-trajectory-tracking) | Real-time drone detection with YOLO26n plus multi-modal trajectory prediction of future flight paths. 95.1% mAP@50, 0.953 precision, 50+ FPS; benchmarked against YOLOv8n, v10n and v11n. Deployed and tested on an NVIDIA Jetson Nano. Paper under peer review. | Python, PyTorch, YOLO26, Jetson Nano |
 | **SIH26003 Dementia Care** *(in progress)* | Care platform for elderly dementia patients in North-East India | — |
 | [**Gesture-Controlled Rover**](https://github.com/Lalith-pochiraju/my-projects/tree/main/hand%20dection%20rover) | Raspberry Pi rover driven by hand signs; live camera stream to laptop for gesture detection | RPi, L298N, OpenCV |
 | [**Shape-Changing X-Link Rover**](https://github.com/Lalith-pochiraju/my-projects/tree/main/xlink%20rover) | ESP32 rover with custom actuators and ultrasonic sensing | ESP32, C++ |
