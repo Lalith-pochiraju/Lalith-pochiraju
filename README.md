@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://lalith-portfolio1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4A3226?style=for-the-badge&logo=vercel&logoColor=FBE3CF" /></a>
   <a href="https://www.linkedin.com/in/pochiraju-lalith-swaroop"><img src="https://img.shields.io/badge/LinkedIn-E0895A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0008-4421-9115"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://www.tinkercad.com/users/4TYAEqfChin"><img src="https://img.shields.io/badge/Tinkercad-C8693F?style=for-the-badge&logo=autodesk&logoColor=white" /></a>
   <a href="https://leetcode.com/u/lalith_swaroop/"><img src="https://img.shields.io/badge/LeetCode-4A3226?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://www.codechef.com/users/lalith_swaroop"><img src="https://img.shields.io/badge/CodeChef-8A5A44?style=for-the-badge&logo=codechef&logoColor=white" /></a>
