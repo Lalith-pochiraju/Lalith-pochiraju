@@ -18,8 +18,10 @@
 
 ## Research
 
-### Automated PPE Compliance Detection on Construction Sites Using YOLO26
-**First author** · Accepted and presented at the **8th International Conference on Intelligent Autonomous Systems (ICoIAS 2026)** · To appear in **IEEE Xplore**
+### [Automated PPE Compliance Detection on Construction Sites Using YOLO26: A Comparative Study of Detection Scale and Rule-Based Verification](https://ieeexplore.ieee.org/document/11755302)
+**First author** · Published in **IEEE Xplore** · 2026 8th International Conference on Intelligent Autonomous Systems (ICoIAS) · DOI: [10.1109/ICoIAS71675.2026.11755302](https://doi.org/10.1109/ICoIAS71675.2026.11755302)
+
+<a href="https://ieeexplore.ieee.org/document/11755302"><img src="https://img.shields.io/badge/IEEE_Xplore-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" /></a>
 
 - Built an automated safety system that detects people and five types of protective gear (helmet, vest, gloves, boots, goggles) in construction-site images
 - Designed a **rule-based compliance layer** that links each worker to nearby gear and flags anyone missing a helmet or high-visibility vest
